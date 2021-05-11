@@ -23,7 +23,7 @@ Technologies that I use:
 <a><img src="https://img.shields.io/badge/linux-HexColor?style=for-the-badge&logo=linux&color=FCC624&logoColor=white"/></a><br>
 
 # 📞 Contact
-You can contact me using this: *(You can click this shield* 😉*)*
+You can contact me using this: *(You can click this shield* 😉)
 
 <a href="https://discordapp.com/users/469481610526457856"><img src="https://img.shields.io/badge/discord-HexColor?style=for-the-badge&logo=Discord&color=748cd7&logoColor=white"/></a>
 <a href="mailto:kontakt@mopsior.pl"><img src="https://img.shields.io/badge/mail-HexColor?style=for-the-badge&logo=gmail&color=EA4335&logoColor=white"/></a>
