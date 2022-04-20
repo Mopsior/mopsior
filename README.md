@@ -5,6 +5,8 @@
 <br />
 ### I'm a young programmer, developing in revolutionary technologies.
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=mopsior&hide=issues&show_icons=true&bg_color=151515&text_color=9f9f9f)](https://github.com/Mopsior)
+
 ## 🔗 [Link Shortener](https://s.mopsior.pl)
 ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%23339933)
@@ -15,8 +17,14 @@ Easy non-login link shortener.
 - [💻 Page](https://s.mopsior.pl)
 - [📄 API](https://api.mopsior.pl)
 
+### Other Projects:
+- [Simple React page (with GSAP anims)](https://github.com/Mopsior/simple-react-page)
+
+[![Card](https://github-readme-stats.vercel.app/api/pin?username=mopsior&repo=simple-react-page&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Mopsior/simple-react-page)
+
 ## 📖 I'm currently learning
 ![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-%23323330.svg?style=for-the-badge&logo=greensock&logoColor=%2388CE02)
 ![Arduino (web servers)](https://img.shields.io/badge/Arduino%20(web%20servers/IoT)-%23323330.svg?style=for-the-badge&logo=arduino&logoColor=%#00979D)
 
 and I'm still developing abilities...
