@@ -7,7 +7,7 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=mopsior&hide=issues&show_icons=true&bg_color=151515&text_color=9f9f9f)](https://github.com/Mopsior)
 
-## 🔗 [Link Shortener](https://s.mopsior.pl)
+## 🔗 [Link Shortener (not maintained!)](https://s.mopsior.pl)
 ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/NodeJS-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%23339933)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
