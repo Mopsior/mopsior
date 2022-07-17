@@ -14,8 +14,7 @@
 
 Easy non-login link shortener.
 
-- [💻 Page](https://s.mopsior.pl)
-- [📄 API](https://api.mopsior.pl)
+__No links, because project disabled__
 
 ### Other Projects:
 - [Simple React page (with GSAP anims)](https://github.com/Mopsior/simple-react-page)
