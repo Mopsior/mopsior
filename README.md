@@ -13,7 +13,7 @@
 
 My blog! (only in Polish language)
 
-[![Card](https://github-readme-stats.vercel.app/api/pin?username=mopsior&repo=blog&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Mopsior/simple-react-page)
+[![Card](https://github-readme-stats.vercel.app/api/pin?username=mopsior&repo=blog&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Mopsior/blog)
 
 ### Other Projects:
 - [Simple React page (with GSAP anims)](https://github.com/Mopsior/simple-react-page)
