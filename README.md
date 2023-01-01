@@ -1,23 +1,21 @@
-![banner](https://user-images.githubusercontent.com/80514290/163722724-02b0f4c0-a24b-4f68-8ba7-71ceeaed4fcb.png)
-<a href="https://discord.com/users/469481610526457856">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a href="mailto:kontakt@mopsior.pl">![Mail](https://img.shields.io/badge/kontakt@mopsior.pl-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://mopsior.pl">![Page](https://img.shields.io/badge/mopsior.pl-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)</a>
-<br />
-### I'm a young programmer, developing in revolutionary technologies.
+<h1>👋 Heyo, I'm Mopsior! <img src="https://raw.githubusercontent.com/Mopsior/mopsior/main/assets/pug.png" align="right" alt="logo"></h1>
+<p><em>Member of <a href="https://github.com/ElektronPlus">Elektron++</a></em></p>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=mopsior&hide=issues&show_icons=true&bg_color=151515&text_color=9f9f9f)](https://github.com/Mopsior)
+## 👨 About me
 
-## My Projects
+```javascript
+const Mopsior = {
+    name: 'Bartek',
+    pronouns: 'he' | 'him',
+    code: [Javascript, Typescript, Python, HTML, CSS, C#, Java, C++],
+    tools: [React, Next, Node, Storybook, Tailwind, Docker, I18Next, Supabase, GraphQL, OpenCV, Mediapipe],
+    school: 'Programing Student | 1st year',
+    personality: 'Extravert'.
+    languages: 'Polish, English, German',
+    funFact: 'I had little secret about color in discord aboutme 😉. U need to google it.'
+}
+```
 
-### Mopsior Blog
+## 🖥️ Socials
 
-My blog! (only in Polish language)
-
-[![Card](https://github-readme-stats.vercel.app/api/pin?username=mopsior&repo=blog&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Mopsior/blog)
-
-### Other Projects:
-- [Simple React page (with GSAP anims)](https://github.com/Mopsior/simple-react-page)
-
-[![Card](https://github-readme-stats.vercel.app/api/pin?username=mopsior&repo=simple-react-page&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Mopsior/simple-react-page)
-
-and I'm still developing abilities...
+[![Discord](https://img.shields.io/badge/Mopsior%237997-%235662f6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/469481610526457856) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mopsior) [![Instagram](https://img.shields.io/badge/Instagram-%23d52e85?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mopsior_dev/)
