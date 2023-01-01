@@ -10,9 +10,7 @@ const Mopsior = {
     code: [Javascript, Typescript, Python, HTML, CSS, C#, Java, C++],
     tools: [React, Next, Node, Storybook, Tailwind, Docker, I18Next, Supabase, GraphQL, OpenCV, Mediapipe],
     school: 'Programing Student | 1st year',
-    personality: 'Extravert'.
     languages: 'Polish, English, German',
-    funFact: 'I had little secret about color in discord aboutme 😉. U need to google it.'
 }
 ```
 
