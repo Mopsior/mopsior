@@ -2,7 +2,7 @@
 
 📢 Public speaker @ <code>TEDxWarsaw Youth</code>
 
-🥷 Creator of Cybersecurity awareness workshops @  [<code>Młodzi (cyber)bezpieczni</code>](https://https://www.instagram.com/mlodzi.cyberbezpieczni/)
+🥷 Creator of Cybersecurity awareness workshops @  [<code>Młodzi (cyber)bezpieczni</code>](https://instagram.com/mlodzi.cyberbezpieczni/)
 
 💻 Web Developer and Ethical Hacker
 
